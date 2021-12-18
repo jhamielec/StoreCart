@@ -1,0 +1,30 @@
+.itemCard {
+    border:2px red solid;
+    height:30vh;
+    margin-bottom:15px;
+    border-radius: 10px;
+    background-color:rgb(248, 206, 143);
+}
+
+.itemInfo {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.price {
+    margin-right: 5px;
+}
+
+h3 {
+    text-align: center;
+    margin:0px
+}
+
+img {
+    height:20vh;
+}
+
+.image {
+    display:flex;
+    justify-content: center;
+}
